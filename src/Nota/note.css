@@ -1,0 +1,18 @@
+/* note.css */
+
+.Note {
+    background-color: #f0f8ff; /* Azul pastel */
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Note li {
+    list-style: none;
+    font-size: 16px;
+    color: #333; /* Texto oscuro */
+  }
+  
+  /* Puedes añadir más estilos según tus preferencias */
+  

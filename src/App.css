@@ -1,0 +1,38 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5; /* Color de fondo suave */
+}
+
+.notesContainer {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff; /* Fondo blanco */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sutil sombra */
+}
+
+.notesHeader {
+  text-align: center;
+  color: #333; /* Texto oscuro */
+}
+
+.NotesBody {
+  padding: 20px 0;
+}
+
+.Note {
+  background-color: #f0f8ff; /* Azul pastel */
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.noteFooter {
+  margin-top: 20px;
+  text-align: center;
+  color: #777; /* Texto gris */
+}
